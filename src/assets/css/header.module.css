@@ -1,0 +1,13 @@
+.container {
+    width: 100%;
+    display: flex;
+    margin: 0;
+    height: 20%;
+    background-color: blueviolet;
+}
+
+.heading {
+    color: white;
+    text-align: center;
+    width: 100%;
+}

@@ -1,0 +1,18 @@
+.container {
+    margin: 5%;
+}
+
+.listItem {
+    font-size: 20px;
+    font-weight: 400;
+    margin: 2%;
+}
+
+.createButton {
+    background-color: rgb(73, 39, 104);
+    text-decoration: none;
+    margin: auto 2%;
+    padding: 1% 4%;
+    text-align: center;
+    color: white;
+}
